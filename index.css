@@ -70,9 +70,9 @@ body {
     font-size: var(--font-size-small);
     font-family: var(--font-stack);
     font-weight: 400;
-    color: var(--white-1);
+    color: #472222;
     line-height: var(--line-height-normal);
-    background: var(--black);
+    background: #D18282;
     overflow-x: hidden;
 }
 
@@ -405,7 +405,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/header.jpg');
+        url('./images/argenti_sybau.png');
     height: 100vh;
     background-size: cover;
     background-position: center;
